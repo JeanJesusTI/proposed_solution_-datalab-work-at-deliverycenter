@@ -44,7 +44,7 @@ Com as informações citadas acimas, chegamos a seguinte solução como arquitet
    
 ## Análise e Business Intelligence
 
-  Como solução para segunda etapa proposta, iremos utilizar uma abordagem baseada em um modelo de dados Star-Schema; já que esse modelo consistem na diminuição das junções de tabelas e centralização dos dados que irá aprimorar a performance. Podemos ter uma noção do modelo de dados conforme imagem abaixo:
+  Como solução para segunda etapa proposta, iremos utilizar uma abordagem baseada em um modelo de dados Star-Schema, tendo em vista que esse modelo consiste na diminuição das junções de tabelas e centralização dos dados que irá aprimorar a performance. Podemos ter uma noção do modelo de dados conforme imagem abaixo:
     
     
    ![_Modelagem de dados](https://user-images.githubusercontent.com/31626353/130518688-9c6cc8a9-de21-4a58-a0a8-b6d341b2decc.png)
