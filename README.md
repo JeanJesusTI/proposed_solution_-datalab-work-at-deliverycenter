@@ -77,8 +77,7 @@ Conforme informado acima, chegamos seguinte solução:
 |  7°                 |  Proporção de Entregas por Cidades |  Permite obter uma visão geral das entregas realizadas por cidades. |
 |  8°                 |  Comparação de Entregas por motoboy x Bikers |  Permite a verificação da quantidade de entregas efetuadas pelas duas categorias disponíveis. |
 |  9°                 |  Ranking |  Permite a visualização de um Ranking dinâmico (ou seja, baseado nas seleções dos filtros desejados), possibilitando a visualização o desempenho dos centros baseados nas suas entregas realizadas. |
-|  10°                 |  Centro de Distribuição / condicional de performance |  Permite saber o nome do Centro de distribuição, auxiliado com um indicador visual. A utilização desse indicador, permite que o analista encontre de maneira rápida, centros que estão com desempenho abaixo do esperado; afim de implementar melhorias para melhorar sua performance. Os ícones são divididos em 3 categorias: <br> Estes são dividido em 3 cores.
-Verde: Pedidos concluídos > 60% <br/>Amarelho: Pedidos Concluidos <=60% > 50% <br/> Vermelho: Pedidos concluídos < 50
+|  10°                 |  Centro de Distribuição / condicional de performance |  Permite saber o nome do Centro de distribuição, auxiliado com um indicador visual. A utilização desse indicador, permite que o analista encontre de maneira rápida, centros que estão com desempenho abaixo do esperado; afim de implementar melhorias para melhorar sua performance. Os ícones são divididos em 3 categorias: <br> Estes são dividido em 3 cores. <br/>Verde: Pedidos concluídos > 60% <br/>Amarelho: Pedidos Concluidos <=60% > 50% <br/> Vermelho: Pedidos concluídos < 50
  |
 |  11°                 |  Célula de conteúdo |  Célula de conteúdo |
 |  12°                 |  Célula de conteúdo |  Célula de conteúdo |
