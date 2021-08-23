@@ -62,8 +62,9 @@ Conforme informado acima, chegamos seguinte solução:
   
 ![RELATORIO_BUSINESS__](https://user-images.githubusercontent.com/31626353/130523440-47d3a80c-3898-4a3c-9b9c-334ef484db6d.png)
 
-<br/>
-<br/>
+  
+  
+  
 ### Especificação de Relatório:
   
   
