@@ -52,8 +52,7 @@ Com as informações citadas acimas, chegamos a seguinte solução como arquitet
 
 
 
-<br/>
-<br/>
+
 <br/>
 
   
