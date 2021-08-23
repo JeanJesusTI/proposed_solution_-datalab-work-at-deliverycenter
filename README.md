@@ -58,6 +58,10 @@ Com as informações citadas acimas, chegamos a seguinte solução como arquitet
   
 Como proposta para a etapa de Business Intelligence, foi optado pela utilização da ferramenta Power BI, para melhor demonstrar os indicadores (KPIs) extraídos dos dados disponibilizados. A optação por essa ferramenta, foi baseada na sua eficácia e também no crescimento da sua utilização nos ultimos anos no mercado; também, a ferramenta é denominada Self-Service BI, que possibilita aos usuários finais a manipulação e criação de relatórios sem necessidade de um conhecimento avançado na área da tecnologia; essa possibilidade ajuda a reduzir a sobrecarga dos profissionais de T.I, tendo em vista que o desenvolvimento e a criação de relatório pode ser feita por usuários finais.
 Conforme informado acima, chegamos seguinte solução:
+  
+  
+![RELATORIO__](https://user-images.githubusercontent.com/31626353/130522193-ef8a2074-73a8-49d1-bb26-be359b81000b.png)
+
 
 
 
