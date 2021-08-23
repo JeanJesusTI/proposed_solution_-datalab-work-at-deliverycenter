@@ -45,7 +45,8 @@ Com as informações citadas acimas, chegamos a seguinte solução como arquitet
   Como solução para segunda etapa proposta, iremos utilizar uma abordagem baseada em um modelo de dados Star-Schema; já que esse modelo consistem na diminuição das junções de tabelas e centralização dos dados que irá aprimorar a performance. Podemos ter uma noção do modelo de dados conforme imagem abaixo:
     
     
-    ![Modelagem de dados](https://user-images.githubusercontent.com/31626353/130518492-be5365cc-1dc7-4e11-a8b5-5e2ba136b42d.jpg)
+    ![Modelagem de dados](https://user-images.githubusercontent.com/31626353/130518561-4932a19b-f86a-454f-8457-4b20d7a27376.jpg)
+
 
 
 
