@@ -68,7 +68,7 @@ Conforme informado acima, chegamos seguinte solução:
 <br/>
   
   
-### Especificação de Relatório:
+<center>### Especificação de Relatório:</center>
   
   
   
@@ -76,7 +76,7 @@ Conforme informado acima, chegamos seguinte solução:
 | ------------------- | ------------------- | ------------------- |
 |  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  <br/> •	Filtro por Centro de Distribuição <br/> • Filtro por Canais de Venda <br/> • Filtro por Tipode Entregador|
 |  2°    |  Qtd. Pedidos  |  Permite ter o Controle geral de todos os pedidos registrados. |
-|  3°  |  Qtd. Entregadores . |  Permite saber a quantidade geral de entregadores, permitindo ao analista verificar se há necessidade da contratação de pessoal em decorrência do número de pedidos e outras causas. |
+|  3°  |  Qtd. Entregadores  |  Permite saber a quantidade geral de entregadores, permitindo ao analista verificar se há necessidade da contratação de pessoal em decorrência do número de pedidos e outras causas. |
 |  4°                 |  Qtd. Pedidos Cancelados |  Permite ter o controle dos pedidos cancelados, afim de identificar possíveis falhas ou melhorias a serem implementadas. |
 |  5°                 |  Qtd. Centros de Distribuição |  Permite saber a quantidade de centro de distribuições cadastradas, e através do filtro analisar o desempenho de cada uma. |
 |  6°                 |   Qtd. Pedidos realizados |  Permite saber a quantidade de pedidos que foram efetuados com sucesso, funcionando assim (através dos filtros), como uma métrica de análise de desempenho. |
