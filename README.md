@@ -71,12 +71,14 @@ Conforme informado acima, chegamos seguinte solução:
 |  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  <br/> •	Filtro por Centro de Distribuição <br/> • Filtro por Canais de Venda <br/> • Filtro por Tipode Entregador|
 |  2°    |  Qtd. Pedidos  |  Permite ter o Controle geral de todos os pedidos registrados. |
 |  3°  |  Qtd. Entregadores . |  Permite saber a quantidade geral de entregadores, permitindo ao analista verificar se há necessidade da contratação de pessoal em decorrência do número de pedidos e outras causas. |
-|  4°                 |  Célula de conteúdo |  Célula de conteúdo |
-|  5°                 |  Célula de conteúdo |  Célula de conteúdo |
-|  6°                 |  Célula de conteúdo |  Célula de conteúdo |
-|  7°                 |  Célula de conteúdo |  Célula de conteúdo |
-|  8°                 |  Célula de conteúdo |  Célula de conteúdo |
-|  9°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  4°                 |  Qtd. Pedidos Cancelados |  Permite ter o controle dos pedidos cancelados, afim de identificar possíveis falhas ou melhorias a serem implementadas. |
+|  5°                 |  Qtd. Centros de Distribuição |  Permite saber a quantidade de centro de distribuições cadastradas, e através do filtro analisar o desempenho de cada uma. |
+|  6°                 |   Qtd. Pedidos realizados |  Permite saber a quantidade de pedidos que foram efetuados com sucesso, funcionando assim (através dos filtros), como uma métrica de análise de desempenho. |
+|  7°                 |  Proporção de Entregas por Cidades |  Permite obter uma visão geral das entregas realizadas por cidades. |
+|  8°                 |  Comparação de Entregas por motoboy x Bikers |  Permite a verificação da quantidade de entregas efetuadas pelas duas categorias disponíveis. |
+|  9°                 |  Ranking |  Permite a visualização de um Ranking dinâmico (ou seja, baseado nas seleções dos filtros desejados), possibilitando o desempenho dos centros baseados nas suas entregas realizadas.
+Permite saber o nome do Centro de distribuição, auxiliado com um indicador visual. A utilização desse indicador, permite que o analista encontre de maneira rápida, centros que estão com desempenho abaixo do esperado; afim de implementar melhorias para melhorar sua performance.
+ |
 |  13°                 |  Célula de conteúdo |  Célula de conteúdo |
 |  12°                 |  Célula de conteúdo |  Célula de conteúdo |
 |  13°                 |  Célula de conteúdo |  Célula de conteúdo |
