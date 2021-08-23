@@ -52,7 +52,9 @@ Com as informações citadas acimas, chegamos a seguinte solução como arquitet
 
 
 
-
+<br/>
+<br/>
+<br/>
 
   
   
@@ -68,7 +70,7 @@ Conforme informado acima, chegamos seguinte solução:
 <br/>
   
   
-<center>### Especificação de Relatório:</center>
+### Especificação de Relatório:
   
   
   
