@@ -62,7 +62,14 @@ Conforme informado acima, chegamos seguinte solução:
   
 ![RELATORIO_BUSINESS__](https://user-images.githubusercontent.com/31626353/130523440-47d3a80c-3898-4a3c-9b9c-334ef484db6d.png)
 
-
+### Especificação de Relatório:
+  
+  
+  
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
 
 
 
