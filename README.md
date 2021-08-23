@@ -60,7 +60,8 @@ Como proposta para a etapa de Business Intelligence, foi optado pela utilizaçã
 Conforme informado acima, chegamos seguinte solução:
   
   
-![RELATORIO__](https://user-images.githubusercontent.com/31626353/130522193-ef8a2074-73a8-49d1-bb26-be359b81000b.png)
+![RELATORIO_BUSINESS__](https://user-images.githubusercontent.com/31626353/130523073-cea83c3c-b858-4341-88e6-4fdf56f5078b.png)
+
 
 
 
