@@ -68,7 +68,7 @@ Conforme informado acima, chegamos seguinte solução:
   
 | Index               |  Descrição          |  Importância        |
 | ------------------- | ------------------- | ------------------- |
-|  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  \\ -	Filtro por Centro de Distribuição \\ - Filtro por Canais de Venda \\ - Filtro por Tipode Entregador|
+|  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  <br/> -	Filtro por Centro de Distribuição <br/> - Filtro por Canais de Venda <br/> - Filtro por Tipode Entregador|
 |  2°                 |  Célula de conteúdo |  Célula de conteúdo |
 
 
