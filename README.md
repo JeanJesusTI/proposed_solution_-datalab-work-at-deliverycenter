@@ -76,7 +76,7 @@ Conforme informado acima, chegamos seguinte solução:
 |  6°                 |   Qtd. Pedidos realizados |  Permite saber a quantidade de pedidos que foram efetuados com sucesso, funcionando assim (através dos filtros), como uma métrica de análise de desempenho. |
 |  7°                 |  Proporção de Entregas por Cidades |  Permite obter uma visão geral das entregas realizadas por cidades. |
 |  8°                 |  Comparação de Entregas por motoboy x Bikers |  Permite a verificação da quantidade de entregas efetuadas pelas duas categorias disponíveis. |
-|  9°                 |  Ranking |  Permite a visualização de um Ranking dinâmico (ou seja, baseado nas seleções dos filtros desejados), possibilitando o desempenho dos centros baseados nas suas entregas realizadas. |
+|  9°                 |  Ranking |  Permite a visualização de um Ranking dinâmico (ou seja, baseado nas seleções dos filtros desejados), possibilitando a visualização o desempenho dos centros baseados nas suas entregas realizadas. |
 |  13°                 |  Célula de conteúdo |  Célula de conteúdo |
 |  12°                 |  Célula de conteúdo |  Célula de conteúdo |
 |  13°                 |  Célula de conteúdo |  Célula de conteúdo |
