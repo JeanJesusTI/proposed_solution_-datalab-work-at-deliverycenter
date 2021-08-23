@@ -66,7 +66,7 @@ Conforme informado acima, chegamos seguinte solução:
   
   
   
-| Primeiro cabeçalho  |  Segundo cabeçalho  |  Segundo cabeçalho  |
+| CAMPO               |  Segundo cabeçalho  |  Segundo cabeçalho  |
 | ------------------- | ------------------- | ------------------- |
 |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
