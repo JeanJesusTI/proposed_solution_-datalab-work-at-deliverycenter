@@ -68,7 +68,7 @@ Conforme informado acima, chegamos seguinte solução:
   
 | Index               |  Descrição          |  Importância        |
 | ------------------- | ------------------- | ------------------- |
-|  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  |
+|  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros: •	Filtro por Centro de Distribuição |
 |  2°                 |  Célula de conteúdo |  Célula de conteúdo |
 
 
