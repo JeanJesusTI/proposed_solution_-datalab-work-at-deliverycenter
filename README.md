@@ -27,6 +27,10 @@ Além disso, a adoção de um DataLake pode trazer vários benefícios, como por
 
 Como um DataLake é baseado em variadas fontes de dados, os mesmos devem ser organizados para que um analista de negócio consiga realizar análises seguimentadas, sejam por setores, ou qualquer outro parâmetro de sua escolha, e por isso, faremos a adoção da utilização de cubos OLAP.
 
+**Cubo OLAP:** Um cubo OLAP pode ser definido como uma estrutura composta por dimensões e uma tabela fato. Basicamente, as *dimensões* são os eixos do cubo, que podem ser definidas como diferentes angulos de se verificar uma métrica. Já a **fato**, é uma tabela composta por medidas centralizadas, as quais serão apresentadas dentro de um determinado domínio de análise.
+
+Com os cubos criados (camada de datamart), poderemos então aplicar técnicas de Business Intelligence/ Analytics e Data Science utilizando diversas ferramentas, possibilitando a aplicação de análises, sejam elas: *Descritivas*, *Prescritivas*, *Preditivas* e outras. Para isso, poderemos contar com ferramentas como: Power BI, Linguagem R (R-Studio), Microsoft Azure e Jupyter Notebook.
+
 
 
 
