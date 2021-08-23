@@ -66,10 +66,21 @@ Conforme informado acima, chegamos seguinte solução:
   
   
   
-| Index               |  Descrição          |  Importância        |
+| Item               |  Descrição          |  Importância        |
 | ------------------- | ------------------- | ------------------- |
 |  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  <br/> •	Filtro por Centro de Distribuição <br/> • Filtro por Canais de Venda <br/> • Filtro por Tipode Entregador|
-|  2°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  2° Qtd. Pedidos    |  Quantidade total de pedidos |  Permite ter o Controle geral de todos os pedidos registrados. |
+|  3° Qtd. Entregadores  |  Quantidade geral de entregadores. |  Permite saber a quantidade geral de entregadores, permitindo ao analista verificar se há necessidade da contratação de pessoal em decorrência do número de pedidos e outras causas. |
+|  4°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  5°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  6°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  7°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  8°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  9°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  13°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  12°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  13°                 |  Célula de conteúdo |  Célula de conteúdo |
+|  14°                 |  Célula de conteúdo |  Célula de conteúdo |
 
 
 
