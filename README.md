@@ -30,6 +30,7 @@ Como um DataLake é baseado em variadas fontes de dados, os mesmos devem ser org
 **Cubo OLAP:** Um cubo OLAP pode ser definido como uma estrutura composta por dimensões e uma tabela fato. Basicamente, as *dimensões* são os eixos do cubo, que podem ser definidas como diferentes angulos de se verificar uma métrica. Já a **fato**, é uma tabela composta por medidas centralizadas, as quais serão apresentadas dentro de um determinado domínio de análise.
 
 Com os cubos criados (camada de datamart), poderemos então aplicar técnicas de Business Intelligence/ Analytics e Data Science utilizando diversas ferramentas, possibilitando a aplicação de análises, sejam elas: *Descritivas*, *Prescritivas*, *Preditivas* e outras. Para isso, poderemos contar com ferramentas como: Power BI, Linguagem R (R-Studio), Microsoft Azure e Jupyter Notebook.
+Com as informações citadas acimas, chegamos a seguinte arquitetura de dados:
   
   
   ![Arquitetura de Dados](https://user-images.githubusercontent.com/31626353/130517522-9c3108f6-9694-4ca0-96d2-56a244af0d92.png)
