@@ -9,7 +9,7 @@ O seguinte repositório tem por objetivo a resolução do teste disponibilizado 
 ## Arquitetura e Engenharia de Dados
 
 
-Com base nas informações obtidas baseadas no enunciado, iremos utilizar uma abordagem baseada numa arquitetura de dados fundamentadanos conceitos de **Data Lake** e cubos **Data Marts**, utilizando como ferramenta de migração de dados a ferramenta **SAP Data Services**.
+  Com base nas informações obtidas baseadas no enunciado, iremos utilizar uma abordagem baseada numa arquitetura de dados fundamentadanos conceitos de **Data Lake** e cubos **Data Marts**, utilizando como ferramenta de migração de dados a ferramenta **SAP Data Services**.
 Para entendermos melhor a utilização desta abordagem, iremos definir o conceito básico de cada uma delas.
 
 **SAP Data Services:** É uma ferramenta de integração e transformação de dados, que nos permite desenvolver fluxos que executam jobs capazes de realizar a captura de dados provenientes de diversas fontes. A optação por essa ferramenta foi baseada na necessidade da empresa na utilização do streaming de dados. O SAP Data Services permite a utilização de micro-batch para realizar o carregamento dos dados, onde podemos definir o tempo de execução de cada Job para um período mais curto, para que as cargas sejam carregadas em tempo real com alta performance.
@@ -29,7 +29,7 @@ Como um DataLake é baseado em variadas fontes de dados, os mesmos devem ser org
 
 **Cubo OLAP:** Um cubo OLAP pode ser definido como uma estrutura composta por dimensões e uma tabela fato. Basicamente, as *dimensões* são os eixos do cubo, que podem ser definidas como diferentes angulos de se verificar uma métrica. Já a **fato**, é uma tabela composta por medidas centralizadas, as quais serão apresentadas dentro de um determinado domínio de análise.
 
-Com os cubos criados (camada de datamart), poderemos então aplicar técnicas de Business Intelligence/ Analytics e Data Science utilizando diversas ferramentas, possibilitando a aplicação de análises, sejam elas: *Descritivas*, *Prescritivas*, *Preditivas* e outras. Para isso, poderemos contar com ferramentas como: Power BI, Linguagem R (R-Studio), Microsoft Azure e Jupyter Notebook.
+  Com os cubos criados (camada de datamart), poderemos então aplicar técnicas de Business Intelligence/ Analytics e Data Science utilizando diversas ferramentas, possibilitando a aplicação de análises, sejam elas: *Descritivas*, *Prescritivas*, *Preditivas* e outras. Para isso, poderemos contar com ferramentas como: Power BI, Linguagem R (R-Studio), Microsoft Azure e Jupyter Notebook.
 Com as informações citadas acimas, chegamos a seguinte solução como arquitetura de dados:  
 
   
@@ -56,7 +56,7 @@ Com as informações citadas acimas, chegamos a seguinte solução como arquitet
 
   
   
-Como proposta para a etapa de Business Intelligence, foi optado pela utilização da ferramenta Power BI, para melhor demonstrar os indicadores (KPIs) extraídos dos dados disponibilizados. A optação por essa ferramenta, foi baseada na sua eficácia e também no crescimento da sua utilização nos ultimos anos no mercado; também, a ferramenta é denominada Self-Service BI, que possibilita aos usuários finais a manipulação e criação de relatórios sem necessidade de um conhecimento avançado na área da tecnologia; essa possibilidade ajuda a reduzir a sobrecarga dos profissionais de T.I, tendo em vista que o desenvolvimento e a criação de relatório pode ser feita por usuários finais.
+  Como proposta para a etapa de Business Intelligence, foi optado pela utilização da ferramenta Power BI, para melhor demonstrar os indicadores (KPIs) extraídos dos dados disponibilizados. A optação por essa ferramenta, foi baseada na sua eficácia e também no crescimento da sua utilização nos ultimos anos no mercado; também, a ferramenta é denominada Self-Service BI, que possibilita aos usuários finais a manipulação e criação de relatórios sem necessidade de um conhecimento avançado na área da tecnologia; essa possibilidade ajuda a reduzir a sobrecarga dos profissionais de T.I, tendo em vista que o desenvolvimento e a criação de relatório pode ser feita por usuários finais.
 Conforme informado acima, chegamos seguinte solução:
   
   
@@ -64,7 +64,8 @@ Conforme informado acima, chegamos seguinte solução:
 
   
   
-  
+<br/>  
+<br/>
 ### Especificação de Relatório:
   
   
