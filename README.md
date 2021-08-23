@@ -66,10 +66,10 @@ Conforme informado acima, chegamos seguinte solução:
   
   
   
-| CAMPO               |  Segundo cabeçalho  |  Segundo cabeçalho  |
+| Index               |  Descrição          |  Importância        |
 | ------------------- | ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
+|  1°                 |  Filtro              |  - •	Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  |
+|  2°                 |  Célula de conteúdo |  Célula de conteúdo |
 
 
 
