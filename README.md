@@ -1,4 +1,4 @@
-# PROPOSTA DE SOLUÇÃO | Delivery Center 
+# Proposta de Solução | Delivery Center 
 
 
    O presente documento tem por objetivo a resolução do teste disponiblizado pela DeliveryCenter. A proposta é realizar uma abordagem dos pontos passados no enunciado para resolver e propor soluções a fim de de agregar valores a empresa. O documento está dividido em 4 partes, sendo elas:<br>
