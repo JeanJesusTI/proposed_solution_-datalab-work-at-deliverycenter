@@ -136,7 +136,13 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
  ![image](https://user-images.githubusercontent.com/31626353/130546986-a61cc849-1d07-4a79-a5cf-d740f92be4d6.png)
 
    
+<br/>  
+<br/> 
+ Podemos confirmar o calculo efetuado, utilizando uma opção visual do seaborn chamada countplot, e nele é possível ver que, o numero de motoboys é bem maior que o numero de bikers, conforme imagem abaixo:
    
+<br/> 
+  ![image](https://user-images.githubusercontent.com/31626353/130547460-c9ae3115-2b0b-4bb5-ad60-79cabf4c7be8.png)
+
 
 
 
