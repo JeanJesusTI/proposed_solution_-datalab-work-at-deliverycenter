@@ -175,6 +175,11 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
 
 <br/>
    
+   
+#### Observações:
+   
+<br/>
+   
    - Para realização da análise e desenvolvimento, foi selecionado o algoritimo *DecisionTreeClassifier*, visto que se trata de um problema de classificação. O objetivo principal seria criar um algoritimo que conseguisse prever com um bom nivel de acuracidade a situação das entregas dos pedidos, por tanto, não foram utilizada otimização de hiper-parâmetros, visto que o algoritimo conseguiu um excelente resultado com suas configurações padrão.
    
    
@@ -184,7 +189,20 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
    
 <br/> 
    
-   - É importante frizar que, a acuracidade alta de um algoritimo pode ser sinal de overfitting que deve ser investigado, ou utilizar outras técnicas de validação cruzada e outros.
+   - É importante frizar que, a acuracidade alta de um algoritimo pode ser sinal de overfitting que deve ser investigado, e / ou utilizar outras técnicas, como por exemplo validação cruzada e outros.
+   
+   
+<br/> 
+   
+   
+   - Correlação Não implica Causalidade.
+   
+   
+<br/> 
+   
+   - A técnica de amostragem que obteve um melhor resultado, foi a técnica de UnderSampling, e baseado nela foram feitas algumas análises dos resultados, a fim de analisar onde o algoritimo mais errou.
+ 
+Como resultado, obtivemos a seguinte conclusão
 
  
 
