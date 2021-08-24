@@ -60,6 +60,8 @@ Como um DataLake é baseado em variadas fontes de dados, os mesmos devem ser org
   Com os cubos criados (camada de datamart), poderemos então aplicar técnicas de Business Intelligence/ Analytics e Data Science utilizando diversas ferramentas, possibilitando a aplicação de análises, sejam elas: *Descritivas*, *Prescritivas*, *Preditivas* e outras. Para isso, poderemos contar com ferramentas como: Power BI, Linguagem R (R-Studio), Microsoft Azure e Jupyter Notebook.
 Com as informações citadas acimas, chegamos a seguinte solução como arquitetura de dados:  
 
+<br/>
+
   
   
   
