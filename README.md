@@ -210,7 +210,22 @@ Como resultado, obtivemos a seguinte conclusão:
 |   2157 |  12    |  
 | :---   |:---    | 
 | 8       | 55    | 
+
    
+<br/>
+   Baseado nessa informação, podemos calcular a porcentagem de acerto para cada opção de classificação do algoritimo, conforma imagem abaixo:<br/>
+   
+![image](https://user-images.githubusercontent.com/31626353/130551506-5cdc9a21-993d-4ea5-b62d-aa3253b13922.png)
+
+   
+<br/>
+
+Com isso, podemos inferir a porcentagem de acerto para cada classe do algoritimo, e conforme tabela abaixo, podemos vizualizar que o algoritimo tende a errar mais na classificação de pedidos cancelados:<br/>
+  
+   
+|   ENTREGUES |  99.45 %   |  
+| :---        |:---        | 
+| CANCELADOS  | 87.30 %    |
 
 
 
