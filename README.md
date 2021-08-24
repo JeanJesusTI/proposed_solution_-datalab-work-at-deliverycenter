@@ -93,7 +93,7 @@ Conforme informado acima, chegamos seguinte solução:
 |  13°                 |  % de  Pedidos Concluidos por Centro de Distribuição |  Permite saber a proporção em percentagem dos pedidos concluídos por Centro de distribuição. |
 |  14°                 |  % de  Pedidos Cancelados por Centro de Distribuição |  Permite saber a proporção em percentagem dos pedidos cancelados por Centro de distribuição. |
 
-
+De modo geral, os indicadores abordados podem ajudar a empresa, dando a possibilidade de identificar / mitigar possíveis problemas de desempenho, fazendo com que seja possível a tomada de ações afim de detectar e previnir problemas mais graves no futuro.
 
 <br />
 <br />
@@ -118,7 +118,7 @@ Para realizarmos a análise seguimos os seguintes passos:
    
    
    
-[Driver Analysis.pdf](https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/files/7035978/Driver.Analysis.pdf)
+
 
 
    
