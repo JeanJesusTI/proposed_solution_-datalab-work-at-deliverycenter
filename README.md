@@ -1,6 +1,7 @@
 # PROPOSTA DE SOLUÇÃO | Delivery Center 
 
-<p>O seguinte repositório tem por objetivo a resolução do teste disponibilizado pela Deliverycenter. A estrutura do projeto será dividido em 3 partes conforme estruturado no teste disponibilizado, sendo elas:</p>
+
+   O presente documento tem po objetivo a resolução do teste disponiblizado pela DeliveryCenter. A proposta é realizar uma abordagem dos pontos passados no enunciado para resolver e propor soluções afim de agregar valores a empresa. O documento está dividido em 4 partes, sendo elas:<br>
 
 - Arquitetura e Engenharia de dados
 - Análise e Business Intelligence
