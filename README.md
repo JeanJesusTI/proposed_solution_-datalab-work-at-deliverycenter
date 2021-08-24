@@ -179,7 +179,7 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
    
 <br/>
    
-   - Para realização da análise e desenvolvimento, foi selecionado o algoritimo *DecisionTreeClassifier*, visto que se trata de um problema de classificação. O objetivo principal seria criar um algoritimo que conseguisse prever com um bom nivel de acuracidade a situação das entregas dos pedidos, por tanto, não foram utilizadas otimização de hiper-parâmetros, visto que o algoritimo conseguiu um excelente resultado com suas configurações padrão.
+   - Para realização da análise e desenvolvimento, foi selecionado o algoritimo *DecisionTreeClassifier*, visto que se trata de um problema de classificação. O objetivo principal seria criar um algoritimo que conseguisse prever com um bom nivel de acuracidade a situação das entregas dos pedidos, por tanto, não foram utilizadas otimizações de hiper-parâmetros, visto que o algoritimo conseguiu um excelente resultado com suas configurações padrão.
    
    
 <br/>
