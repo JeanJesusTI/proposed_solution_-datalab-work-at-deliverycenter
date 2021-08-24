@@ -142,7 +142,8 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
    
 <br/> 
    
-![image](https://user-images.githubusercontent.com/31626353/130547460-c9ae3115-2b0b-4bb5-ad60-79cabf4c7be8.png)
+![image](https://user-images.githubusercontent.com/31626353/130547583-91b8a061-fde9-41b8-a161-be934687b994.png)
+
 
 
 
