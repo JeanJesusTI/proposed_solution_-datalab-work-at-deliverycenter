@@ -18,7 +18,9 @@ Para entendermos melhor a utilização desta abordagem, iremos definir o conceit
 
 ![SAP](https://user-images.githubusercontent.com/31626353/130625281-d34b849d-63e0-4916-8fb6-8203166bedfd.jpg)
 
-<div align="center"> https://www.salesforce.com/br/blog/2020/10/data-warehouse-e-data-lake.html </div>
+<div align="center"> 
+   https://www.salesforce.com/br/blog/2020/10/data-warehouse-e-data-lake.html 
+</div>
 
 
 <br/>
