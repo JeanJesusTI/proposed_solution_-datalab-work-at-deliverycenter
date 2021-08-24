@@ -207,9 +207,10 @@ Como resultado, obtivemos a seguinte conclusão:
    
    O algoritimo com a melhor performance obteve **99.10%** de Acuracidade, e, analisando mais a fundo, obtivemos a seguinte matriz de Confusão:
    
-
-| 2157     | 12     | 
-| 8        | 55     | 
+|   2157 |  12    |  
+| :---   |:---    | 
+| 8       | 55    | 
+   
 
 
 
