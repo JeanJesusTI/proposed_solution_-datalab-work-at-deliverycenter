@@ -14,6 +14,13 @@
    Com base nas informações obtidas baseadas no enunciado, iremos utilizar uma abordagem baseada numa arquitetura de dados fundamentadanos conceitos de **Data Lake** e cubos **Data Marts**, utilizando como ferramenta de migração de dados a ferramenta **SAP Data Services**.
 Para entendermos melhor a utilização desta abordagem, iremos definir o conceito básico de cada uma delas.
 
+<br/>
+
+![SAP](https://user-images.githubusercontent.com/31626353/130625281-d34b849d-63e0-4916-8fb6-8203166bedfd.jpg)
+
+
+<br/>
+
 **SAP Data Services:** É uma ferramenta de integração e transformação de dados, que nos permite desenvolver fluxos que executam jobs capazes de realizar a captura de dados provenientes de diversas fontes. A optação por essa ferramenta foi baseada na necessidade da empresa na utilização do streaming de dados. O SAP Data Services permite a utilização de micro-batch para realizar o carregamento dos dados, onde podemos definir o tempo de execução de cada Job para um período mais curto, para que as cargas sejam carregadas em tempo real com alta performance.
 
 <br/>
