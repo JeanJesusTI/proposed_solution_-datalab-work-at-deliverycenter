@@ -196,7 +196,7 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
    
 <br/>
    
-   - A fim de agregar mais valor as análises realizadas, foi desenvolvido um algoritimo de machinne learning utilizando algumas técnicas estatisticas e de amostragem para realizar previsão da situação dos pedidos, ou seja, se eles serão entregues ou cancelados; como a análise e o desenvolvimento são um pouco extenso, você pode acessa-lo clicando <a href = "https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/blob/main/An%C3%A1lise%20de%20Dados/Machine%20Learning%20-%20Orders.ipynb">aqui</a>.
+   - A fim de agregar mais valor as análises realizadas, foi desenvolvido um algoritimo de machinne learning utilizando algumas técnicas estatisticas e de amostragem para realizar previsão da situação dos pedidos, ou seja, se eles serão entregues ou cancelados; como a análise e o desenvolvimento são um pouco extenso, você pode acessa-lo clicando <a href = "https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/blob/main/An%C3%A1lise-de-Dados/Machine%20Learning%20-%20Orders.ipynb">aqui</a>.
 
 <br/>   
    
