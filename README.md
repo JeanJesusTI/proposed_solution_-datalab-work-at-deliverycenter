@@ -154,7 +154,7 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
    Após a realização da análise e dos calculos, chegamos a seguinte informação:
    
 |   ENTREGADOR |  TIPO                |  PROPORÇÃO|
-| :---         |     :---:            |   :---:   |
+| :---         |:---                  |   :---:   |
 | BIKER       | Freelancer            | 99.94%    |
 | BIKER       | Logistic Operator     | 0.06%     |
 | MOTOBOY     | Freelancer            | 72.56%    |
