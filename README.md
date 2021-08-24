@@ -101,7 +101,8 @@ Conforme informado acima, chegamos seguinte solução:
 ## Ciência e Modelagem de dados
 <br />
 Para realização das análises, foi utilizado o Jupyter notebook juntamente com a linguagem Python, afim de entender melhor os dados, e entender padrões ocultos.
-A primeira parte, consiste na análise do dataset Drivers. Para isso seguimemos os seguintes passos:
+A primeira parte, consiste na análise do dataset Drivers. A análise completa encontra-se no link <a href = 'https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/blob/main/An%C3%A1lise%20de%20Dados/Driver%20Analysis.ipynb'>link<a/>
+Para isso seguimemos os seguintes passos:
 <br />
 
 ##### 1° Importação das bibliotecas
