@@ -209,7 +209,7 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
 | :---   |:---    | 
 | 8       | 55    | 
    
-<div/>
+</div>
 
    
 <br/>
@@ -222,11 +222,14 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
 
 Com isso, podemos inferir a porcentagem de acerto para cada classe do algoritimo, e conforme tabela abaixo, podemos visualizar que o algoritimo tende a errar mais na classificação de pedidos cancelados:<br/>
   
+<div align='center'>
    
 |   ENTREGUES |  99.45 %   |  
 | :---        |:---        | 
 | CANCELADOS  | 87.30 %    |
 
+   
+</div>
    
 <br/>
    
