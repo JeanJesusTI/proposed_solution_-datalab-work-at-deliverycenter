@@ -148,7 +148,17 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
 
 
 
+<br/>
 
+##### 4° Análisando a proporcionalidade em porcentagem do tipo de entregador, baseado em sua categoria
+   Após a realização da análise e dos calculos, chegamos a seguinte informação:
+   
+|   ENTREGADOR |  TIPO                |  PROPORÇÃO|
+| :---         |     :---:            |   :---:   |
+| BIKER       | Freelancer            | 99.94%    |
+| BIKER       | Logistic Operator     | 0.06%     |
+| MOTOBOY     | Freelancer            | 72.56%    |
+| MOTOBOY     | Logistic Operator     | 27.44%    |
    
    
    
