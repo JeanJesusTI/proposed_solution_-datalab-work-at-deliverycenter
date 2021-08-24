@@ -91,7 +91,7 @@ Conforme informado acima, chegamos seguinte solução:
 |  11°                 |  Qtd. Pedidos Concluídos por Centro de Distribuição |  Permite saber a quantidade de pedidos concluídos baseados no centro de distribuição. |
 |  12°                 |  Qtd. Pedidos Cancelados por Centro de Distribuição |  Permite saber a quantidade de pedidos Cancelados baseados no centro de distribuição. |
 |  13°                 |  % de  Pedidos Concluidos por Centro de Distribuição |  Permite saber a proporção em percentagem dos pedidos concluídos por Centro de distribuição. |
-|  13°                 |  % de  Pedidos Cancelados por Centro de Distribuição |  Permite saber a proporção em percentagem dos pedidos cancelados por Centro de distribuição. |
+|  14°                 |  % de  Pedidos Cancelados por Centro de Distribuição |  Permite saber a proporção em percentagem dos pedidos cancelados por Centro de distribuição. |
 
 
 
