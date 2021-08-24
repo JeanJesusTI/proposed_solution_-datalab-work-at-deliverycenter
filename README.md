@@ -18,7 +18,7 @@ Para entendermos melhor a utilização desta abordagem, iremos definir o conceit
 
 <br/>
 
-![Data Lake](https://user-images.githubusercontent.com/31626353/130624305-dfe1ae33-ab6f-4f74-8404-dee09530f1ac.png)
+
 
 <br/>
 
