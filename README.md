@@ -116,6 +116,8 @@ Para realizarmos a análise seguimos os seguintes passos:
 ##### 2° Leitura e visualização prévia dos dados
 <br/>
 Utilizamos o pandas para realizar a leitura do arquivo de dados, como uma funcionalidade integrada da ferramenta, os arquivos lidos são transformados em dataframes, o que nos dá uma sério de possibilidades de visualização e manipulação dos dados.
+ <br/>
+   
 ![image](https://user-images.githubusercontent.com/31626353/130535923-23a4d9c4-0786-446e-ac60-da6c2310f6c3.png)
    
  
