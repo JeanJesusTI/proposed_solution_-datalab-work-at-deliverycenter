@@ -16,14 +16,6 @@ Para entendermos melhor a utilização desta abordagem, iremos definir o conceit
 
 <br/>
 
-![SAP](https://user-images.githubusercontent.com/31626353/130625281-d34b849d-63e0-4916-8fb6-8203166bedfd.jpg)
-
-<div align="center"> 
-    www.salesforce.com/br/blog/2020/10/data-warehouse-e-data-lake.html 
-</div>
-
-<br/>
-<br/>
 
 **SAP Data Services:** É uma ferramenta de integração e transformação de dados, que nos permite desenvolver fluxos que executam jobs capazes de realizar a captura de dados provenientes de diversas fontes. A optação por essa ferramenta foi baseada na necessidade da empresa na utilização do streaming de dados. O SAP Data Services permite a utilização de micro-batch para realizar o carregamento dos dados, onde podemos definir o tempo de execução de cada Job para um período mais curto, para que as cargas sejam carregadas em tempo real com alta performance.
 
@@ -33,6 +25,14 @@ Para entendermos melhor a utilização desta abordagem, iremos definir o conceit
 
 
 
+<br/>
+
+![SAP](https://user-images.githubusercontent.com/31626353/130625281-d34b849d-63e0-4916-8fb6-8203166bedfd.jpg)
+
+   www.salesforce.com/br/blog/2020/10/data-warehouse-e-data-lake.html 
+
+
+<br/>
 <br/>
 
 **Data Lake:** O Data Lake pode ser definido como um espaço centralizador, o qual possui grande poder de armazenamento de dados provenientes de fontes **estruturadas** e **não estruturadas**. Essa abordagem é interessante neste caso devido a necessidade de uma estrutura que permita a escalabilidade; já que, um dos problemas apresentados pelo enunciado é o aumento exponencial do volume de dados. Com essa estrutura, além de termos uma escalabilidade maior,podemos obter dados de fontes variadas, o que é imprescindível para empresa, visto que a mesta está se baseando no conceito de Data Driven, para esse caso fictício, iremos utilizar o Banco de Dados Oracle 19c.
