@@ -106,15 +106,17 @@ Para realizarmos a análise seguimos os seguintes passos:
 <br />
 
 ##### 1° Importação das bibliotecas
- <br/>
+
    
    Como o dataset não possui informações tão complexas, iremos utilizar apenas duas bibliotecas para extrair insumos dos mesmos.
+<br/>
+   
 ![image](https://user-images.githubusercontent.com/31626353/130535657-9a11d31c-2331-41c5-ab33-18e8cfb8f1cb.png)
 
 <br/>
 
 ##### 2° Leitura e visualização prévia dos dados
-<br/>
+
 Utilizamos o pandas para realizar a leitura do arquivo de dados, como uma funcionalidade integrada da ferramenta, os arquivos lidos são transformados em dataframes, o que nos dá uma sério de possibilidades de visualização e manipulação dos dados.
  <br/>
    
