@@ -216,7 +216,7 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
    
 <br/>
 
-Com isso, podemos inferir a porcentagem de acerto para cada classe do algoritimo, e conforme tabela abaixo, podemos vizualizar que o algoritimo tende a errar mais na classificação de pedidos cancelados:<br/>
+Com isso, podemos inferir a porcentagem de acerto para cada classe do algoritimo, e conforme tabela abaixo, podemos visualizar que o algoritimo tende a errar mais na classificação de pedidos cancelados:<br/>
   
    
 |   ENTREGUES |  99.45 %   |  
