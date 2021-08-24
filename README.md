@@ -226,7 +226,8 @@ Com isso, podemos inferir a porcentagem de acerto para cada classe do algoritimo
    
 <br/>
  
-![logo](https://user-images.githubusercontent.com/31626353/130553388-a77f5d8e-bc9d-419c-a229-8c9cc55dbcec.png)
+![LOGO_ICON_](https://user-images.githubusercontent.com/31626353/130553582-24750705-314d-457f-9b7f-cb7977e81c57.png)
+
 
 
 
