@@ -123,7 +123,18 @@ Utilizamos o pandas para realizar a leitura do arquivo de dados, como uma funcio
 ![image](https://user-images.githubusercontent.com/31626353/130535923-23a4d9c4-0786-446e-ac60-da6c2310f6c3.png)
    
  
+<br/>
+
+##### 3° Análisando a proporcionalidade em porcentagem de cada tipo de entregador
+Ao realizarmos os calculos, chegamos a conclusão que:<br />
+   - A quantidade de Motociclistas, equivalem a 66.79% do total de entregadores
+   - A quantidade de Bikers, equivalem a 33.21% do total de entregadores.
    
+   
+<br/>  
+   
+ ![image](https://user-images.githubusercontent.com/31626353/130546986-a61cc849-1d07-4a79-a5cf-d740f92be4d6.png)
+
    
    
 
