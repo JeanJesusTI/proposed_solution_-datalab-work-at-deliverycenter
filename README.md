@@ -18,7 +18,8 @@ Para entendermos melhor a utilização desta abordagem, iremos definir o conceit
 
 <br/>
 
-![Data Lake](https://user-images.githubusercontent.com/31626353/130624671-938880ae-0d6f-4c90-ae76-d2599462f41c.png)
+![data-lake2](https://user-images.githubusercontent.com/31626353/130624767-89ec6b9e-894f-427f-92bb-d1849c6214c0.jpg)
+
 
 
 <br/>
