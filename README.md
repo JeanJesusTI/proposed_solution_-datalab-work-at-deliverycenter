@@ -22,7 +22,7 @@ Para entendermos melhor a utilização desta abordagem, iremos definir o conceit
     www.salesforce.com/br/blog/2020/10/data-warehouse-e-data-lake.html 
 </div>
 
-
+<br/>
 <br/>
 
 **SAP Data Services:** É uma ferramenta de integração e transformação de dados, que nos permite desenvolver fluxos que executam jobs capazes de realizar a captura de dados provenientes de diversas fontes. A optação por essa ferramenta foi baseada na necessidade da empresa na utilização do streaming de dados. O SAP Data Services permite a utilização de micro-batch para realizar o carregamento dos dados, onde podemos definir o tempo de execução de cada Job para um período mais curto, para que as cargas sejam carregadas em tempo real com alta performance.
