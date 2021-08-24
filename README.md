@@ -95,8 +95,17 @@ Conforme informado acima, chegamos seguinte solução:
 
 
 
+<br />
+<br />
 
+## Ciência e Modelagem de dados
+<br />
+Para realização das análises, foi utilizado o Jupyter notebook juntamente com a linguagem Python, afim de entender melhor os dados, e entender padrões ocultos.
+A primeira parte, consiste na análise do dataset Drivers. Para isso seguimemos os seguintes passos:
+<br />
 
+##### 1° Importação das Bibliotecas necessárias
+![image](https://user-images.githubusercontent.com/31626353/130535657-9a11d31c-2331-41c5-ab33-18e8cfb8f1cb.png)
 
 
 
