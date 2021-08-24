@@ -114,6 +114,11 @@ Para realizarmos a análise seguimos os seguintes passos:
 
 ![image](https://user-images.githubusercontent.com/31626353/130535923-23a4d9c4-0786-446e-ac60-da6c2310f6c3.png)
 
+   
+   
+   
+   [Driver Analysis.zip](https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/files/7035648/Driver.Analysis.zip)
+
 
 
 
