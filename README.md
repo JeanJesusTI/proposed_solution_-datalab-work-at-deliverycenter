@@ -1,7 +1,7 @@
 # PROPOSTA DE SOLUÇÃO | Delivery Center 
 
 
-   O presente documento tem por objetivo a resolução do teste disponiblizado pela DeliveryCenter. A proposta é realizar uma abordagem dos pontos passados no enunciado para resolver e propor soluções afim de agregar valores a empresa. O documento está dividido em 4 partes, sendo elas:<br>
+   O presente documento tem por objetivo a resolução do teste disponiblizado pela DeliveryCenter. A proposta é realizar uma abordagem dos pontos passados no enunciado para resolver e propor soluções a fim de de agregar valores a empresa. O documento está dividido em 4 partes, sendo elas:<br>
 
 - Arquitetura e Engenharia de dados
 - Análise e Business Intelligence
@@ -83,26 +83,26 @@ Conforme informado acima, chegamos seguinte solução:
 |  1°                 |  Filtro             |  Permite a análise dos dados por meios de visões diferentes, podendo aplicar os seguintes filtros:  <br/> •	Filtro por Centro de Distribuição <br/> • Filtro por Canais de Venda <br/> • Filtro por Tipode Entregador|
 |  2°    |  Qtd. Pedidos  |  Permite ter o Controle geral de todos os pedidos registrados. |
 |  3°  |  Qtd. Entregadores  |  Permite saber a quantidade geral de entregadores, permitindo ao analista verificar se há necessidade da contratação de pessoal em decorrência do número de pedidos e outras causas. |
-|  4°                 |  Qtd. Pedidos Cancelados |  Permite ter o controle dos pedidos cancelados, afim de identificar possíveis falhas ou melhorias a serem implementadas. |
+|  4°                 |  Qtd. Pedidos Cancelados |  Permite ter o controle dos pedidos cancelados, a fim de identificar possíveis falhas ou melhorias a serem implementadas. |
 |  5°                 |  Qtd. Centros de Distribuição |  Permite saber a quantidade de centro de distribuições cadastradas, e através do filtro analisar o desempenho de cada uma. |
 |  6°                 |   Qtd. Pedidos realizados |  Permite saber a quantidade de pedidos que foram efetuados com sucesso, funcionando assim (através dos filtros), como uma métrica de análise de desempenho. |
 |  7°                 |  Proporção de Entregas por Cidades |  Permite obter uma visão geral das entregas realizadas por cidades. |
 |  8°                 |  Comparação de Entregas por motoboy x Bikers |  Permite a verificação da quantidade de entregas efetuadas pelas duas categorias disponíveis. |
 |  9°                 |  Ranking |  Permite a visualização de um Ranking dinâmico (ou seja, baseado nas seleções dos filtros desejados), possibilitando a visualização o desempenho dos centros baseados nas suas entregas realizadas. |
-|  10°                 |  Centro de Distribuição / condicional de performance |  Permite saber o nome do Centro de distribuição, auxiliado com um indicador visual. A utilização desse indicador, permite que o analista encontre de maneira rápida, centros que estão com desempenho abaixo do esperado; afim de implementar melhorias para melhorar sua performance. Os ícones são divididos em 3 categorias: <br/> <br/>Verde: Pedidos concluídos > 60% <br/>Amarelho: Pedidos Concluidos <=60% > 50% <br/> Vermelho: Pedidos concluídos < 50 |
+|  10°                 |  Centro de Distribuição / condicional de performance |  Permite saber o nome do Centro de distribuição, auxiliado com um indicador visual. A utilização desse indicador, permite que o analista encontre de maneira rápida, centros que estão com desempenho abaixo do esperado; a fim de implementar melhorias para melhorar sua performance. Os ícones são divididos em 3 categorias: <br/> <br/>Verde: Pedidos concluídos > 60% <br/>Amarelho: Pedidos Concluidos <=60% > 50% <br/> Vermelho: Pedidos concluídos < 50 |
 |  11°                 |  Qtd. Pedidos Concluídos por Centro de Distribuição |  Permite saber a quantidade de pedidos concluídos baseados no centro de distribuição. |
 |  12°                 |  Qtd. Pedidos Cancelados por Centro de Distribuição |  Permite saber a quantidade de pedidos Cancelados baseados no centro de distribuição. |
 |  13°                 |  % de  Pedidos Concluidos por Centro de Distribuição |  Permite saber a proporção em percentagem dos pedidos concluídos por Centro de distribuição. |
 |  14°                 |  % de  Pedidos Cancelados por Centro de Distribuição |  Permite saber a proporção em percentagem dos pedidos cancelados por Centro de distribuição. |
 
-De modo geral, os indicadores abordados podem ajudar a empresa, dando a possibilidade de identificar / mitigar possíveis problemas de desempenho, fazendo com que seja possível a tomada de ações afim de detectar e previnir problemas mais graves no futuro.
+De modo geral, os indicadores abordados podem ajudar a empresa, dando a possibilidade de identificar / mitigar possíveis problemas de desempenho, fazendo com que seja possível a tomada de ações a fim de detectar e previnir problemas mais graves no futuro.
 
 <br />
 <br />
 
 ## Ciência e Modelagem de dados
 <br />
-Para realização das análises, foi utilizado o Jupyter notebook juntamente com a linguagem Python, afim de entender melhor os dados, e entender padrões ocultos.
+Para realização das análises, foi utilizado o Jupyter notebook juntamente com a linguagem Python, a fim de entender melhor os dados, e entender padrões ocultos.
 A primeira parte, consiste na análise do dataset Drivers. A análise completa pode ser vista clicando <a href = 'https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/blob/main/An%C3%A1lise%20de%20Dados/Driver%20Analysis.ipynb'>aqui.<a/><br />
 Para realizarmos a análise seguimos os seguintes passos:
 <br />
@@ -171,10 +171,10 @@ Ao realizarmos os calculos, chegamos a conclusão que:<br />
    
 <br/>
    
-   - Afim de agregar mais valor as análises realizadas, foi desenvolvido um algoritimo de machinne learning utilizando algumas técnicas estatisticas e de amostragem para realizar previsão da situação dos pedidos, ou seja, se eles serão entregues ou cancelados; como a análise e o desenvolvimento são um pouco extenso, você pode acessa-lo clicando <a href = "https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/blob/main/An%C3%A1lise%20de%20Dados/Machine%20Learning%20-%20Orders.ipynb">aqui</a>.
+   - A fim de agregar mais valor as análises realizadas, foi desenvolvido um algoritimo de machinne learning utilizando algumas técnicas estatisticas e de amostragem para realizar previsão da situação dos pedidos, ou seja, se eles serão entregues ou cancelados; como a análise e o desenvolvimento são um pouco extenso, você pode acessa-lo clicando <a href = "https://github.com/JeanJesusTI/proposed_solution_-datalab-work-at-deliverycenter/blob/main/An%C3%A1lise%20de%20Dados/Machine%20Learning%20-%20Orders.ipynb">aqui</a>.
 
 <br/>
-- Para realização da análise e desenvolvimento, foi selecionado o algoritimo *DecisionTreeClassifier*, visto que se trata de um problema de classificação. O objetivo principal seria criar um algoritimo que conseguisse prever com um bom nivel de acuracidade a situação das entregas dos pedidos, por tanto, não foram utilizada otimização de hiper-parâmetros, visto que o algoritimo conseguiu um excelente resultado com suas configurações padrão.<br/> É importante frizar que, a acuracidade alta de um algoritimo pode ser sinal de overfitting que deve ser investigado, ou utilizar outras técnicas como KFold e outros.
+ - Para realização da análise e desenvolvimento, foi selecionado o algoritimo *DecisionTreeClassifier*, visto que se trata de um problema de classificação. O objetivo principal seria criar um algoritimo que conseguisse prever com um bom nivel de acuracidade a situação das entregas dos pedidos, por tanto, não foram utilizada otimização de hiper-parâmetros, visto que o algoritimo conseguiu um excelente resultado com suas configurações padrão.<br/> É importante frizar que, a acuracidade alta de um algoritimo pode ser sinal de overfitting que deve ser investigado, ou utilizar outras técnicas de validação cruzada e outros.
 
  
 
