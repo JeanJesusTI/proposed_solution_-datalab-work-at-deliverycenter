@@ -104,11 +104,12 @@ Para realização das análises, foi utilizado o Jupyter notebook juntamente com
 A primeira parte, consiste na análise do dataset Drivers. Para isso seguimemos os seguintes passos:
 <br />
 
-##### 1° Importação das Bibliotecas necessárias
+##### 1° Importação das bibliotecas
 ![image](https://user-images.githubusercontent.com/31626353/130535657-9a11d31c-2331-41c5-ab33-18e8cfb8f1cb.png)
 
 <br  />
-##### 1° Leitura e visualização prévia dos dados
+
+##### 2° Leitura e visualização prévia dos dados
 
 ![image](https://user-images.githubusercontent.com/31626353/130535923-23a4d9c4-0786-446e-ac60-da6c2310f6c3.png)
 
