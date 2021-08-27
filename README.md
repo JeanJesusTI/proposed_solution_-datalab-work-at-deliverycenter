@@ -11,7 +11,7 @@
 ## Arquitetura e Engenharia de Dados
 
 
-   Com base nas informações obtidas baseadas no enunciado, iremos utilizar uma abordagem baseada numa arquitetura de dados fundamentadanos conceitos de **Data Lake** e cubos **Data Marts**, utilizando como ferramenta de migração de dados a ferramenta **SAP Data Services**.
+   Com base nas informações obtidas no enunciado, iremos utilizar uma abordagem baseada numa arquitetura de dados fundamentadanos conceitos de **Data Lake** e cubos **Data Marts**, utilizando como ferramenta de migração de dados a ferramenta **SAP Data Services**.
 Para entendermos melhor a utilização desta abordagem, iremos definir o conceito básico de cada uma delas.
 
 <br/>
